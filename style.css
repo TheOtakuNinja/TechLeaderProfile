@@ -1,3 +1,38 @@
 body {
-    background: LightBlue;
+  background-color: white;
+  margin-top: 350px;
+  margin-left: 25px;
+}
+img {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+}
+.bg_Tracy {
+  z-index: 1;
+  width: 1400px;
+  height: 300px;
+
+}
+.Tracy_picture {
+  z-index: 3;
+}
+a{
+  font-size: 25px;
+}
+h4{
+  font-size: 20px;
+  margin-right: 500px;
+}
+#Tracy_stand{
+  width: 250px;
+  height: 300px;
+  margin-left: 1000px;
+  margin-top: 400px;
+}
+#Tracy_stander{
+  width: 250px;
+  height: 300px;
+  margin-left: 1000px;
+  margin-top: 750px;
 }
